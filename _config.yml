@@ -37,4 +37,4 @@ sass:
   style: compressed
 future: true
 permalink: /:year/:month/:day/:title
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
